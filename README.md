@@ -6,6 +6,7 @@
 #### attributes
 
 - gymnast
+
 ### uneven bars < equipment
 
 ### attributes
@@ -41,6 +42,7 @@
 
 - balance
 - walk
+
 ### gym
 
 #### attributes
