@@ -1,5 +1,11 @@
 # gymnastics
 
+## Running the Tests
+
+```
+rspec
+```
+
 ## objects
 
 ### equipment
