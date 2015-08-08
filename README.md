@@ -13,7 +13,6 @@
 
 - low bar
 - high bar
-- gymnast
 
 #### behaviors
 
@@ -24,8 +23,6 @@
 ### balance beam < equipment
 
 #### attributes
-
-- gymnast
 
 #### behaviors
 
