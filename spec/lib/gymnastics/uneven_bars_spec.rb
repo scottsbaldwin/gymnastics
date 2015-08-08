@@ -12,4 +12,8 @@ describe UnevenBars do
     subject.mount(gymnast)
     expect(subject.mount(gymnast2)).to eq("A gymnast is already on the uneven bars.")
   end
+
+  it "should swing the gymnast from the low to the high bar" do
+    expect(subject.swing).to eq("The gymnast is now on the high bar.")
+  end
 end

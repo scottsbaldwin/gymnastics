@@ -6,6 +6,7 @@ class UnevenBars < Equipment
   end
 
   def swing
+    "The gymnast is now on the high bar."
   end
 
   def mount(gymnast)
